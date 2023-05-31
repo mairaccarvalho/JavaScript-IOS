@@ -1,13 +1,21 @@
-// function media(nt1, nt2){
-//     return (nt1 + nt2) / 2
-// }
-// console.log(media(7,5.6));
+function media(nt1, nt2){
+    return (nt1 + nt2) / 2
+}
+console.log(media(7,5.6));
 
 
-// function imc(peso,altura){
-//     return peso / (altura * altura)
-// }
-// console.log(imc(70, 1.90).toFixed(2));
+function imc(peso,altura){
+    return peso / (altura * altura)
+}
+console.log(imc(70, 1.90).toFixed(2));
+
+
+
+
+
+
+
+
 
 const media = (nt1,nt2,nt3) =>{
     return (nt1 + nt2 + nt3) /3

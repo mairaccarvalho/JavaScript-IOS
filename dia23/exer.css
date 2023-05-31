@@ -1,0 +1,8 @@
+div {
+    width: 350px;
+    height: 350px;
+    border: solid 2px black;
+}
+div{
+    background-color: lightcoral;
+}
